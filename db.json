@@ -1,0 +1,25 @@
+{
+  "mails": [
+    {
+      "id": "1",
+      "body": "Igal is the best. He is so good with JS. Incidunt quos temporibus in quisquam eius nulla corporis deserunt nisi, sed, reiciendis ullam earum? Ad sint omnis, repudiandae delectus officiis officia eveniet.",
+      "subject": "random subject 2",
+      "from": "someone else",
+      "date": "2017-06-13"
+    },
+    {
+      "id": "2",
+      "body": "I love ice cream. it's just so good. Incidunt quos temporibus in quisquam eius nulla corporis deserunt nisi, sed, reiciendis ullam earum? Ad sint omnis, repudiandae delectus officiis officia eveniet.",
+      "subject": "random subject 3",
+      "from": "another person",
+      "date": "2018-05-13"
+    },
+    {
+      "body": "lorem asdadasdasd asdasdasdasda asdasjkdaskjdhaskjdh askjdhaskjdhaskjdhaskjdhask asdkhaskdjahsdkjahsdkjashdka",
+      "subject": "random subject1",
+      "from": "Igal Roitblat",
+      "date": "2018-01-09",
+      "id": "3"
+    }
+  ]
+}
